@@ -1,0 +1,1 @@
+Hello user,this is just a sample program I used to learn about js and now I pushed it to Github
